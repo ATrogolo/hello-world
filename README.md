@@ -6,4 +6,4 @@ Master graduatedat Polythecnic of Turin in 2013, I started working in a Mobile T
 
 ## About me
 I love run, hike on summer in Valle d'Aosta mountains but at the same time I love sand and swim in the sea. 
-
+And programming too .. obviously!
